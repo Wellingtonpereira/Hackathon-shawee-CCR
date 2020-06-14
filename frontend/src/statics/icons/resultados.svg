@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__exames-24px" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-1,.prefix__cls-4{fill:none}.prefix__cls-4{stroke:#fff}.prefix__cls-5{stroke:none}
+        </style>
+    </defs>
+    <path id="prefix__Retângulo_7170" d="M0 0H24V24H0z" class="prefix__cls-1" data-name="Retângulo 7170"/>
+    <g id="prefix__Retângulo_7171" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2px" data-name="Retângulo 7171">
+        <path d="M0 0H18V20H0z" class="prefix__cls-5" transform="translate(3 2)"/>
+        <path d="M1 1H17V19H1z" class="prefix__cls-1" transform="translate(3 2)"/>
+    </g>
+    <g id="prefix__Retângulo_7172" fill="#fff" stroke="#fff" data-name="Retângulo 7172" transform="translate(13 15)">
+        <rect width="5" height="2" class="prefix__cls-5" rx="1"/>
+        <rect width="4" height="1" x=".5" y=".5" class="prefix__cls-1" rx=".5"/>
+    </g>
+    <g id="prefix__Retângulo_7173" class="prefix__cls-4" data-name="Retângulo 7173" transform="translate(6 7)">
+        <rect width="12" height="2" class="prefix__cls-5" rx="1"/>
+        <rect width="11" height="1" x=".5" y=".5" class="prefix__cls-1" rx=".5"/>
+    </g>
+    <g id="prefix__Retângulo_7174" class="prefix__cls-4" data-name="Retângulo 7174" transform="translate(6 11)">
+        <rect width="12" height="2" class="prefix__cls-5" rx="1"/>
+        <rect width="11" height="1" x=".5" y=".5" class="prefix__cls-1" rx=".5"/>
+    </g>
+</svg>

@@ -36,6 +36,11 @@ export default {
   methods: {
     handerActice(){
       this.pageActive = '/'+this.$route.path.split('/')[1]
+
+      if (this.pageActive == '/'){
+        this.pageActive = '/exames'
+      }
+
     },
     pushRouter(router){
       this.$router.push(router)

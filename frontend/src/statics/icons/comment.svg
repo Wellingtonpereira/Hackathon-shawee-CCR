@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__avaliar-24px" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:none;stroke-linecap:round;stroke:#424242;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="prefix__Retângulo_7202" fill="none" d="M0 0H24V24H0z" data-name="Retângulo 7202"/>
+    <g id="prefix__União_68" fill="none" stroke="none" stroke-linecap="round" stroke-linejoin="round" data-name="União 68">
+        <path d="M7.462 10.529H1.5a1.5 1.5 0 0 1-1.5-1.5V1.5A1.5 1.5 0 0 1 1.5 0h10A1.5 1.5 0 0 1 13 1.5v7.529a1.5 1.5 0 0 1-1.5 1.5h-.818v3.58z" transform="translate(5.5 4.949)"/>
+        <path fill="#424242" d="M10.682 14.11v-3.58h.818c.83 0 1.5-.673 1.5-1.501V1.5c0-.829-.67-1.5-1.5-1.5h-10C.671 0 0 .671 0 1.5V9.03c0 .828.671 1.5 1.5 1.5h5.962l3.22 3.58m0 2c-.556 0-1.1-.232-1.487-.662l-2.624-2.918H1.5C-.43 12.53-2 10.96-2 9.03V1.5C-2-.43-.43-2 1.5-2h10C13.43-2 15-.43 15 1.5V9.03c0 1.515-.968 2.809-2.318 3.295v1.785c0 .829-.51 1.571-1.284 1.868-.233.09-.475.132-.715.132z" transform="translate(5.5 4.949)"/>
+    </g>
+    <path id="prefix__Linha_695" d="M0 0L9.001 0" class="prefix__cls-3" data-name="Linha 695" transform="translate(7.5 8.453)"/>
+    <path id="prefix__Linha_696" d="M0 0L9.001 0" class="prefix__cls-3" data-name="Linha 696" transform="translate(7.5 11.957)"/>
+</svg>

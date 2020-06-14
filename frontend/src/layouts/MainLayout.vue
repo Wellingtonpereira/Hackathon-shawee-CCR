@@ -1,5 +1,5 @@
 <template>
-  <q-layout view="hhh ipr fff">
+  <q-layout view="lHh Lpr lFf">
     <tool-bar />
     <info-user />
     <my-menu />
@@ -21,6 +21,10 @@ export default {
     ToolBar,
     InfoUser,
     MyMenu
+  },
+   data () {
+    return {
+    }
   }
 }
 </script>

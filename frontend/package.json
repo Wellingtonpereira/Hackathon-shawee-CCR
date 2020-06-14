@@ -1,8 +1,8 @@
 {
   "name": "ccr",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "description": "Trecho App",
+  "productName": "Trecho App",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
   "author": "wellingtonpereira <wedgard.pereira@gmail.com>",

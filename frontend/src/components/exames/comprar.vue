@@ -11,22 +11,18 @@
                     <br>
                     <span>Realizado por: <b>Sodré Laboratório</b></span> 
                 </p>
-
                 <p class="info">
                     Faça o exame toxicológico em qualquer posto de coleta CCR ou onde estiver.
                 </p>
-
                 <p class="info">
                     <ul>
                         <li>Parcelamento em 3x sem juros</li>
                         <li>Laudo com autenticação digital</li>
                     </ul>
                 </p>
-
                 <p class="preco">
                     R$ 162,20
                 </p>
-
                 <p class="info">
                     à vista no boleto<br>
                     no cartão de crédito 3x de R$54,00
@@ -36,7 +32,7 @@
 
         <div class="row">
             <div class="col text-center">
-                <q-btn flat color="primary">
+                <q-btn flat color="primary" @click="handlerPagamento('123')">
                     <q-icon name="shopping_cart" class="icon"/>
                     <span class="title">Comprar</span>
                 </q-btn>
@@ -47,9 +43,14 @@
 
 <script>
 export default {
-    name: "detalhes_exame",
+    name: "comprar_exame",
     data() {
         return {
+        }
+    },
+    methods:{
+        handlerPagamento(id){
+            this.$router.push('/pagamento/123')
         }
     }
 }

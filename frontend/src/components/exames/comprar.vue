@@ -50,7 +50,7 @@ export default {
     },
     methods:{
         handlerPagamento(id){
-            this.$router.push('/pagamento/123')
+            this.$router.push('/cartao/pagar/'+id)
         }
     }
 }

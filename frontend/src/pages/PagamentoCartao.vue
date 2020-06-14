@@ -1,14 +1,14 @@
 <template>  
-    <pagamento-exame />
+    <pagamento-cartao />
 </template>
 
 <script>
-import PagamentoExame from 'components/faturamento/pagamento'
+import PagamentoCartao from 'components/faturamento/cartao'
 
 export default {
   name: 'Pagamento',
   components:{
-    PagamentoExame
+    PagamentoCartao
   }
 }
 </script>

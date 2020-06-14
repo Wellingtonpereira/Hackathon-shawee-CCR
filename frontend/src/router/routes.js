@@ -9,6 +9,8 @@ import ComprarExames from 'pages/ComprarExames'
 import HistoricoExames from 'pages/HistoricoExames'
 import RealizadoExames from 'pages/RealizadoExames'
 import PagamentoExames from 'pages/PagamentoExames'
+import PagamentoCartao from 'pages/PagamentoCartao'
+import PagamentoAprovado from 'pages/PagamentoAprovado'
 
 const routes = [
   {
@@ -26,14 +28,16 @@ const routes = [
       { path: 'detalhes/:id', component: DetalhesExames },
       { path: 'comprar/:id', component: ComprarExames },
       { path: 'historico', component: HistoricoExames },
-      { path: 'realizado/:id', component: RealizadoExames }
+      { path: 'realizado/:id', component: RealizadoExames },
+      { path: 'pagamento/:id', component: PagamentoExames }
     ]
   },
   {
-    path: '/pagamento',
+    path: '/cartao',
     component: Layout,
     children: [
-      { path: ':id', component: PagamentoExames }
+      { path: 'pagar/:id', component: PagamentoCartao },
+      { path: 'aprovado', component: PagamentoAprovado }
     ]
   },
   {

@@ -1,0 +1,56 @@
+pitch
+
+Itens: Mostrar as telas do App e a tela da versão da empresa que compra exames.
+
+Comentar sobre o desafio do App
+Os ganhos da proposta
+Facilidade de uso
+Retorno; Uma parte do capital recolhido volta para o motorista em forma de bônus
+
+Módulo exames
+Carro chefe do projeto, foi projetado para facilitar o acesso dos motoristas ao melhores preços
+e aos pontos de coleta de melhor acesso logístico.
+Esse processo visa ajudar o motorista em suas obrigações na realização de exames
+como: data de vencimento, filtro de exames mais baratos, com tempo de entrega mais rápida.
+Avisos sobre a influência de uso de toxinas ilícitas que podem acarretar na suspensão da CNH.
+Um acompanhamento de forma simples e direta sobre seus resultados dos exames.
+Esse módulo publica a venda de exames tanto para motoristas autônomos quanto para motoristas CLT,
+nessa categoria, a compra pode ser realizada pela empresa contratante, tendo assim, melhor controle
+sobre a situação apta ou não de seu colaborador.
+Sobre as parcerias de negócio. Hoje a Trecho App procura atuar junto com os laboratórios, ajudando assim a 
+realização de coletas de exames toxicológicos, por sua vez os laboratórios são os responsáveis pela coleta do material coletado pela TRECHO App,
+O repasse dos serviços de coletas da trecho app, pelos laboratórios variam de R$50,00 a R$80,00 reais o exame viabilizando assim, os módulos a seguir.
+
+
+
+Módulo de paradas.
+Um módulo de muita facilidade de ser replicado em qualquer situação, porém, muito útil para a vida
+do caminhoneiro no seu dia-a-dia, infelizmente, a criação de novos pontos de paradas ou convênios com 
+terceiros para a absorção desses profissionais em momentos de descanso, faz com que tentemos trabalhar 
+o lado colaborativo da categoria, dando a eles a opção de publicar pontos de paradas para dormir, tomar banho,
+se alimentar, entre outros serviços que os próprios membros da categoria de motoristas desejem cadastrar,
+esse serviço é 100% colaborativo entre os motoristas.
+
+
+
+Módulo de serviços
+Nesse módulo, o motorista visualiza apenas os serviços oferecidos pela rodovia em que ele transita naquele exato momento.
+Para transformar esse módulo um pouco mais atrativo aos caminhoneiros e fazer com que eles possam vir a usar o aplicativo
+com uma maior frequência, os serviços que a concessionária oferece na rodovia em questão, terão pontuações que serão gerenciadas pelo TrechoApp
+pontuações essas, que ao completar a meta de pontos, o motoristas pode realizar a troca por serviços ou pequenos mimos dentro do ecosistema de transportes logísticos.
+ex: a rodovia informa que possui, aferimento de pressão e teste da úvula, quando o motoristas realiza algum desses serviços ofertados de forma gratuita, ele recebe
+pontos, acumulando esses pontos, ele pode trocar por: vale banhos, R$X,xx de desconto numa praça de pedágio, adesivos personalizados, entre outros, as  premiações possuem 
+tempo para uso, caso não seja resgatado o prêmio, os pontos expirarão.
+
+
+
+Forma de comunicação com o motoristas.
+Nosso algorítimo de retorno sobre, agendamentos, pontos de coletas, ou alguma ação seja necessária o aviso 
+imediato do motoristas, serão feitas por áudio, enviados diretamente para o whatsapp do mesmo. 
+ex: Ao realizar a compra de um exame e o prazo para a realização do mesmo estiver chegando a data de vencimento,
+o mesmo será notificado com um áudio o informando sobre a expiração do vale exame.
+
+Motivos dessa abordagem, evitar que o motoristas possa receber qualquer mensagem pela TRECHO APP que o obrigue a ler
+e assim, tirar a atenção de sua atuação principal, que é a condução. dessa forma, enviando notificações em áudio, procuramos ser sempre objetivos e coesos para evitar
+qualquer tipo de desatenção durante o seu trajeto.
+

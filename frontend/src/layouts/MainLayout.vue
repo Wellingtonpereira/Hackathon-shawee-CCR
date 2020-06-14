@@ -1,77 +1,36 @@
 <template>
-  <q-layout view="lHh Lpr lFf">
-    <q-header elevated>
-      <q-toolbar>
-        <q-btn
-          flat
-          dense
-          round
-          icon="menu"
-          aria-label="Menu"
-          @click="leftDrawerOpen = !leftDrawerOpen"
-        />
+  <q-layout view="hhh ipr fff">
+    <tool-bar />
+    <info-user />
+    <my-menu />
 
-        <q-toolbar-title>
-          CCR
-        </q-toolbar-title>
-      </q-toolbar>
-    </q-header>
-
-    <q-drawer
-      v-model="leftDrawerOpen"
-      show-if-above
-      bordered
-      content-class="bg-grey-1"
-    >
-      <q-list>
-        <q-item-label
-          header
-          class="text-grey-8"
-        >
-          Menu
-        </q-item-label>
-        <EssentialLink
-          v-for="link in essentialLinks"
-          :key="link.title"
-          v-bind="link"
-        />
-      </q-list>
-    </q-drawer>
-
-    <q-page-container>
+    <div class="q-container">
       <router-view />
-    </q-page-container>
+    </div>
   </q-layout>
 </template>
 
 <script>
-import EssentialLink from 'components/EssentialLink'
+import ToolBar from 'components/ToolBar'
+import MyMenu from 'components/Menu'
+import InfoUser from 'components/InfoUser'
 
 export default {
   name: 'MainLayout',
-
   components: {
-    EssentialLink
-  },
-
-  data () {
-    return {
-      leftDrawerOpen: false,
-      essentialLinks: [
-        {
-          title: 'Tela inicíal',
-          caption: '',
-          icon: 'home',
-          link: '/'
-        },
-        {
-          title: 'Tela Dois',
-          caption: '',
-          icon: 'home',
-          link: '/pagina'
-        }
-      ]
-    }
+    ToolBar,
+    InfoUser,
+    MyMenu
   }
 }
 </script>
+
+<style lang="sass" scoped>
+  .q-header
+    position: relative !important
+
+  .q-container
+      top: -12px
+      position: relative
+  
+</style>

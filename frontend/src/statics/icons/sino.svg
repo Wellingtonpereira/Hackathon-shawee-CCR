@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H24V24H0z" class="prefix__cls-1"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__Grupo_9587" data-name="Grupo 9587" transform="translate(-27 -220)">
+        <g id="prefix__Alert" clip-path="url(#prefix__clip-path)" transform="translate(27 220)">
+            <path id="prefix__Retângulo_479" d="M0 0H24V24H0z" class="prefix__cls-1" data-name="Retângulo 479"/>
+            <path id="prefix__Caminho_1" fill="#fc0" fill-rule="evenodd" d="M22.507 21h-7.513a3.005 3.005 0 0 1-6.01 0H1.471a1.443 1.443 0 0 1-1.352-1.05A1.6 1.6 0 0 1 .57 18.3a6.035 6.035 0 0 0 2.4-4.8V9A9.015 9.015 0 0 1 21 9v4.5a6.035 6.035 0 0 0 2.4 4.8 1.419 1.419 0 0 1 .451 1.65A1.443 1.443 0 0 1 22.507 21z" data-name="Caminho 1" transform="translate(-.063)"/>
+        </g>
+        <circle id="prefix__Elipse_340" cx="4" cy="4" r="4" fill="#424242" data-name="Elipse 340" transform="translate(42 229)"/>
+    </g>
+</svg>

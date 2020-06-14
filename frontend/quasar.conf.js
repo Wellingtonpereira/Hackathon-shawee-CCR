@@ -66,11 +66,11 @@ module.exports = function (/* ctx */) {
       // extractCSS: false,
 
       // https://quasar.dev/quasar-cli/cli-documentation/handling-webpack
+      //loader: 'eslint-loader',
       extendWebpack (cfg) {
         cfg.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,
-          loader: 'eslint-loader',
           exclude: /node_modules/
         })
       }
@@ -101,7 +101,13 @@ module.exports = function (/* ctx */) {
       directives: [],
 
       // Quasar plugins
-      plugins: []
+      plugins: [],
+      config: {
+        brand: {
+          primary: '#ffcc00',
+          // ...
+        }
+      }
     },
 
     // animations: 'all', // --- includes all animations

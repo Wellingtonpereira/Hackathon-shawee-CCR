@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#424242;stroke:#424242}.prefix__cls-3{stroke:none}.prefix__cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__Grupo_9590" data-name="Grupo 9590" transform="translate(-795 -773)">
+        <rect id="prefix__rectangle" width="24" height="24" fill="#fc0" rx="4" transform="translate(795 773)"/>
+        <g id="prefix__Grupo_9580" data-name="Grupo 9580" transform="translate(34 -12)">
+            <g id="prefix__Elipse_335" class="prefix__cls-2" data-name="Elipse 335" transform="translate(768 796)">
+                <circle cx="1" cy="1" r="1" class="prefix__cls-3"/>
+                <circle cx="1" cy="1" r=".5" class="prefix__cls-4"/>
+            </g>
+            <g id="prefix__Elipse_336" class="prefix__cls-2" data-name="Elipse 336" transform="translate(772 796)">
+                <circle cx="1" cy="1" r="1" class="prefix__cls-3"/>
+                <circle cx="1" cy="1" r=".5" class="prefix__cls-4"/>
+            </g>
+            <g id="prefix__Elipse_337" class="prefix__cls-2" data-name="Elipse 337" transform="translate(776 796)">
+                <circle cx="1" cy="1" r="1" class="prefix__cls-3"/>
+                <circle cx="1" cy="1" r=".5" class="prefix__cls-4"/>
+            </g>
+        </g>
+    </g>
+</svg>
